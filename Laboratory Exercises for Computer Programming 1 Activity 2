@@ -1,0 +1,20 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("********************************************\n");
+    printf("*                                          *\n");
+    printf("*      WELCOME TO COMPUTER PROGRAMMING 1   *\n");
+    printf("*                                          *\n");
+    printf("*         Learn  >  Code  >  Create        *\n");
+    printf("*                                          *\n");
+    printf("*    Student: Jhoanna Mae B. Macabaya      *\n");
+    printf("*    Course : BSIT - 1R13                  *\n");
+    printf("*    Subject: IT112                        *\n");
+    printf("*                                          *\n");
+    printf("*       << Future Programmer Loading... >> *\n");
+    printf("*                                          *\n");
+    printf("********************************************\n");
+    
+    return 0;
+}
